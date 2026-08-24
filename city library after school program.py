@@ -100,3 +100,39 @@ ORDER BY join_date DESC limit 10 OFFSET 10;
 ques5 = pd.read_sql_query(query5, conn)
 print ("\n\n" , ques5)
 
+# Merge members with checkouts
+result = pd.merge(
+    checkouts,
+    members,
+    on="member_id",
+    how="left" )
+
+# Add the number of books borrowed by each member
+result["books_borrowed"] = result.groupby("member_id")["checkout_id"].transform("count")
+
+# Merge the JSON data with the result
+result = pd.merge(
+    result,
+    book_catalog,
+    on="book_id",
+    how="left" )
+
+# Merge the HTML file with the result 
+
+reading_kickoff_signups = reading_kickoff_signups.rename(columns={
+    "Member ID": "member_id",
+    "Book ID": "book_id",
+    "Checkout Date": "checkout_date"})
+
+new_checkouts = reading_kickoff_signups.merge(members, on="member_id")
+new_checkouts = new_checkouts.merge(book_catalog, on="book_id")
+
+new_checkouts["checkout_id"] = result["checkout_id"].mode()[0]
+new_checkouts["return_date"] = result["return_date"].mode()[0]
+
+new_checkouts["books_borrowed"] = new_checkouts.groupby("member_id")["book_id"].transform("count")
+
+result = pd.concat([result, new_checkouts], ignore_index=True)
+
+print(result.shape)
+print(result)
