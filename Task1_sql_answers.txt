@@ -1,0 +1,115 @@
+Question 1 : How much is each member borrowing?
+query1 = """
+SELECT 
+    members.first_name as member,
+    COUNT(checkouts.member_id) AS number_of_borrowing
+FROM members
+LEFT JOIN checkouts
+    ON members.member_id = checkouts.member_id
+GROUP BY members.member_id;
+"""
+Output of Question 1
+
+     member  number_of_borrowing
+0    Salma                    1
+1    Fares                    2
+2   Bassel                    9
+3    Fares                    0
+4  Youssef                    3
+5    Layla                    1
+6   Sherif                    3
+7     Ziad                   19
+8   Hassan                    1
+9     Nour                   18
+
+# Question 2 : Which books match a chosen author pattern?
+# chosen pattern = "T%"
+query2 = """
+SELECT 
+    title 
+FROM books
+WHERE title LIKE "T%"
+"""
+Output of Question 2
+
+                     title
+0          The Silver Kite
+1        The Lantern Maker
+2      The Paper Boat Club
+3    The Quiet Observatory
+4    The Missing Metronome
+5   The Cartographer's Cat
+6    The Robot in Row Nine
+7  The Beekeeper's Almanac
+8     The Ninth Lighthouse
+9     The Copper Telescope
+
+# Question 3 : What are the most popular books?
+query3 = """
+SELECT 
+    books.title,
+    COUNT(checkouts.book_id) AS number_of_borrowing
+FROM books
+JOIN checkouts
+    ON books.book_id = checkouts.book_id
+GROUP BY checkouts.book_id
+ORDER BY number_of_borrowing DESC limit 5 ;
+"""
+Output of Question 3
+
+                    title  number_of_borrowing
+0         The Silver Kite                   57
+1   Fossils and Fireflies                   55
+2  Circuits for Beginners                   46
+3        Kites Over Cairo                   38
+4    Storms and Sailboats                   25
+
+# Question 4 : Who are the most active readers?
+query4 = """
+SELECT 
+    members.first_name,
+    COUNT(checkouts.member_id) AS number_of_borrowing
+FROM members
+JOIN checkouts
+    ON members.member_id = checkouts.member_id
+GROUP BY checkouts.member_id
+ORDER BY number_of_borrowing DESC limit 10 ;
+"""
+Output of Question 4
+
+  first_name  number_of_borrowing
+0        Aya                   25
+1     Sherif                   21
+2       Ziad                   19
+3    Mostafa                   18
+4       Nour                   18
+5       Adam                   17
+6    Youssef                   17
+7      Ahmed                   17
+
+# Question 5 : What does a neighborhood's activity look like further back in time?
+# chosen neighborhood : "Maadi"
+query5 = """
+SELECT 
+    members.first_name as member,
+    COUNT(checkouts.member_id) AS number_of_borrowing
+FROM members
+LEFT JOIN checkouts
+    ON members.member_id = checkouts.member_id
+GROUP BY members.member_id
+HAVING neighborhood = "Maadi"
+ORDER BY join_date DESC limit 10 OFFSET 10;
+"""
+Output of Question 5 
+
+    member  number_of_borrowing
+0  Mostafa                    3
+1   Habiba                    1
+2  Youssef                    3
+3    Menna                    2
+4    Layla                    1
+5    Fares                    0
+6     Dina                    7
+7    Salma                    1
+8    Ahmed                   17
+9    Fares                    2

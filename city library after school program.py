@@ -26,3 +26,77 @@ print ("\nreading kickout signups html file ")
 reading_kickoff_signups = pd.read_html("Reading Kickoff Signups.html")[0]
 print (reading_kickoff_signups.head(10))
 print (reading_kickoff_signups.shape)
+
+# Question 1 : How much is each member borrowing?
+query1 = """
+SELECT 
+    members.first_name as member,
+    COUNT(checkouts.member_id) AS number_of_borrowing
+FROM members
+LEFT JOIN checkouts
+    ON members.member_id = checkouts.member_id
+GROUP BY members.member_id;
+"""
+
+ques1 = pd.read_sql_query(query1, conn)
+print ("\n\n" , ques1.head(10))
+
+# Question 2 : Which books match a chosen author pattern?
+# chosen pattern = "T%"
+query2 = """
+SELECT 
+    title 
+FROM books
+WHERE title LIKE "T%"
+"""
+
+ques2 = pd.read_sql_query(query2, conn)
+print ("\n\n" , ques2.head(10))
+
+# Question 3 : What are the most popular books?
+query3 = """
+SELECT 
+    books.title,
+    COUNT(checkouts.book_id) AS number_of_borrowing
+FROM books
+JOIN checkouts
+    ON books.book_id = checkouts.book_id
+GROUP BY checkouts.book_id
+ORDER BY number_of_borrowing DESC limit 5 ;
+"""
+
+ques3 = pd.read_sql_query(query3, conn)
+print ("\n\n" , ques3)
+
+# Question 4 : Who are the most active readers?
+query4 = """
+SELECT 
+    members.first_name,
+    COUNT(checkouts.member_id) AS number_of_borrowing
+FROM members
+JOIN checkouts
+    ON members.member_id = checkouts.member_id
+GROUP BY checkouts.member_id
+ORDER BY number_of_borrowing DESC limit 10 ;
+"""
+
+ques4 = pd.read_sql_query(query4, conn)
+print ("\n\n" , ques4)
+
+# Question 5 : What does a neighborhood's activity look like further back in time?
+# chosen neighborhood : "Maadi"
+query5 = """
+SELECT 
+    members.first_name as member,
+    COUNT(checkouts.member_id) AS number_of_borrowing
+FROM members
+LEFT JOIN checkouts
+    ON members.member_id = checkouts.member_id
+GROUP BY members.member_id
+HAVING neighborhood = "Maadi"
+ORDER BY join_date DESC limit 10 OFFSET 10;
+"""
+
+ques5 = pd.read_sql_query(query5, conn)
+print ("\n\n" , ques5)
+
