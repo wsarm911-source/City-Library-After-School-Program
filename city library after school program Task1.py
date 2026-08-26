@@ -127,8 +127,6 @@ reading_kickoff_signups = reading_kickoff_signups.rename(columns={
 new_checkouts = reading_kickoff_signups.merge(members, on="member_id")
 new_checkouts = new_checkouts.merge(book_catalog, on="book_id")
 
-new_checkouts["checkout_id"] = result["checkout_id"].mode()[0]
-new_checkouts["return_date"] = result["return_date"].mode()[0]
 
 new_checkouts["books_borrowed"] = new_checkouts.groupby("member_id")["book_id"].transform("count")
 
