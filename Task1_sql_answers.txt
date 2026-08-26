@@ -22,27 +22,24 @@ Output of Question 1
 8   Hassan                    1
 9     Nour                   18
 
+
 # Question 2 : Which books match a chosen author pattern?
-# chosen pattern = "T%"
+# chosen pattern = "A%"
 query2 = """
 SELECT 
     title 
 FROM books
-WHERE title LIKE "T%"
+WHERE author LIKE "A%"
 """
 Output of Question 2
 
-                     title
-0          The Silver Kite
-1        The Lantern Maker
-2      The Paper Boat Club
-3    The Quiet Observatory
-4    The Missing Metronome
-5   The Cartographer's Cat
-6    The Robot in Row Nine
-7  The Beekeeper's Almanac
-8     The Ninth Lighthouse
-9     The Copper Telescope
+                  title
+0      The Silver Kite
+1       Desert Compass
+2    The Lantern Maker
+3  Rooftop Astronomers
+4  Letters to the Nile
+5  The Paper Boat Club
 
 # Question 3 : What are the most popular books?
 query3 = """
@@ -113,3 +110,28 @@ Output of Question 5
 7    Salma                    1
 8    Ahmed                   17
 9    Fares                    2
+
+
+Combining and Enriching the Library Data
+
+This code combines data from different sources into one complete table called result.
+First, the checkouts table is merged with the members table using member_id,
+which adds each member’s information to their checkout records.
+Then, the code calculates books_borrowed for each member by counting their checkout records.
+Next, the JSON book catalog is merged using book_id, adding information about each borrowed book.
+After that, the HTML reading kickoff signups data is cleaned by renaming its columns to match the other tables.
+The HTML data is then merged with the members and book catalog tables so that it has the same information structure as the existing checkout data.
+Finally, checkout_id, return_date, and books_borrowed are added to the new records,
+and pd.concat() combines the original checkout records with the new records into one final table.
+The completed table is then saved as Task1_combined_data.csv.
+
+
+Difference Between an API and a Web Page
+
+An API (Application Programming Interface) provides structured data that can be accessed
+directly by a program, usually in formats such as JSON or CSV. In contrast, a web page
+is designed mainly for people to read and interact with, so its data is usually presented as HTML.
+This difference is important in this project because the library data came from different sources and in different formats.
+The API data can be easily processed and combined using Python, while the web page data needs to be extracted and cleaned
+before it can be used. Understanding the difference helps us choose the appropriate method for collecting,
+cleaning, and combining the data accurately.

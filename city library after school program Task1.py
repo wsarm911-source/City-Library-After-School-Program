@@ -42,16 +42,16 @@ ques1 = pd.read_sql_query(query1, conn)
 print ("\n\n" , ques1.head(10))
 
 # Question 2 : Which books match a chosen author pattern?
-# chosen pattern = "T%"
+# chosen pattern = "A%"
 query2 = """
 SELECT 
     title 
 FROM books
-WHERE title LIKE "T%"
+WHERE author LIKE "A%"
 """
 
 ques2 = pd.read_sql_query(query2, conn)
-print ("\n\n" , ques2.head(10))
+print ("\n\n" , ques2.head())
 
 # Question 3 : What are the most popular books?
 query3 = """
@@ -134,5 +134,8 @@ new_checkouts["books_borrowed"] = new_checkouts.groupby("member_id")["book_id"].
 
 result = pd.concat([result, new_checkouts], ignore_index=True)
 
-print(result.shape)
+print("\n\n" , result.shape)
+print (result.columns)
 print(result)
+
+result.to_csv("Task1_combined_data.csv" , index=False)
