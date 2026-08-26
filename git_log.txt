@@ -1,3 +1,9 @@
+commit ada705b70f59abfa77cd818632682d8bd864b0ff
+Author: Ahmed Wael <ws.arm911@gmail.com>
+Date:   Wed Aug 26 20:35:04 2026 +0300
+
+    task 3 finished
+
 commit 139da5f3757d3753584f5c63f3af494c77211eeb
 Author: Ahmed Wael <ws.arm911@gmail.com>
 Date:   Wed Aug 26 19:29:50 2026 +0300
