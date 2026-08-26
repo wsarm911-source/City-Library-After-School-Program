@@ -1,0 +1,372 @@
+,checkout_id,member_id,book_id,checkout_date,return_date,first_name,last_name,grade,neighborhood,membership_status,join_date,books_borrowed,genre,pages,publication_year,publisher
+0,9263,1047,517,2024-10-21,2024-11-07,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Mystery,338,2015,Delta House
+1,9340,1072,513,2025-08-24,2025-09-01,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Science,294,2021,Oasis Books
+2,9231,1053,523,2024-02-04,2024-02-16,Adam,Shafik,9,Heliopolis,Active,2024-01-03,5,Historical,276,2018,Oasis Books
+3,9129,1032,513,2025-06-21,2025-06-29,Nada,Zaki,7,Nasr City,Active,2025-10-19,6,Science,294,2021,Oasis Books
+4,9370,1079,511,2025-11-11,2025-12-03,Rana,Osman,8,Shubra,Active,2024-10-27,10,Historical,117,2016,Nile Press
+5,9082,1010,528,2025-11-11,2025-11-18,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Nature,114,2010,Delta House
+6,9238,1057,513,2024-03-28,2024-04-08,Ahmed,Fahmy,8,Heliopolis,Active,2024-01-12,10,Science,294,2021,Oasis Books
+7,9012,1010,501,2025-02-17,,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Adventure,128,2017,Nile Press
+10,9208,1044,525,2024-07-10,2024-08-01,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Adventure,297,2015,Oasis Books
+11,9319,1065,515,2025-02-10,2025-02-21,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Poetry,316,2022,Cairo Young Readers
+12,9097,1018,501,2025-10-05,2025-10-14,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Adventure,128,2017,Nile Press
+13,9137,1041,519,2025-07-27,2025-08-05,Nada,Rashad,7,Nasr City,Active,2024-04-02,2,Friendship,157,2014,Nile Press
+14,9157,1032,525,2024-03-04,2024-04-03,Nada,Zaki,7,Nasr City,Active,2025-10-19,6,Adventure,297,2015,Oasis Books
+15,9383,1070,501,2024-07-11,2024-07-31,Ahmed,Zaki,9,Zamalek,Active,2025-07-22,3,Adventure,128,2017,Nile Press
+16,9131,1034,505,2025-12-16,2025-12-25,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Historical,216,2024,Oasis Books
+17,9113,1027,507,2024-06-26,2024-07-08,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Science,160,2024,Nile Press
+18,9144,1024,501,2025-11-07,2025-11-25,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Adventure,128,2017,Nile Press
+19,9005,1008,513,2025-04-20,2025-04-29,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Science,294,2021,Oasis Books
+20,9272,1044,518,2025-01-24,2025-02-04,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Adventure,163,2011,Delta House
+21,9283,1072,513,2025-09-17,2025-09-25,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Science,294,2021,Oasis Books
+22,9030,1018,507,2025-03-09,,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Science,160,2024,Nile Press
+23,9291,1065,526,2024-03-25,2024-03-31,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Science Fiction,125,2016,Delta House
+24,9369,1076,501,2025-06-05,,Dina,Wahba,7,Shubra,Active,2025-12-13,7,Adventure,128,2017,Nile Press
+25,9225,1059,516,2025-08-06,2025-08-22,Lina,Halim,7,Heliopolis,Active,2024-01-06,7,Nature,241,2010,Nile Press
+26,9256,1059,521,2025-07-09,,Lina,Halim,7,Heliopolis,Active,2024-01-06,7,Science,211,2024,Cairo Young Readers
+27,9234,1053,525,2024-02-13,2024-03-06,Adam,Shafik,9,Heliopolis,Active,2024-01-03,5,Adventure,297,2015,Oasis Books
+28,9152,1030,525,2025-01-03,,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Adventure,297,2015,Oasis Books
+29,9063,1018,515,2024-10-22,,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Poetry,316,2022,Cairo Young Readers
+30,9161,1040,519,2025-10-11,2025-11-01,Dina,Adel,9,Nasr City,Active,2025-12-26,2,Friendship,157,2014,Nile Press
+31,9206,1050,519,2024-03-17,,Fares,Adel,6,Heliopolis,Inactive,2025-09-10,11,Friendship,157,2014,Nile Press
+32,9031,1020,530,2025-12-28,2026-01-05,Rana,Fouad,6,Maadi,Active,2025-12-04,7,Adventure,208,2012,Oasis Books
+33,9189,1032,507,2025-12-08,2025-12-16,Nada,Zaki,7,Nasr City,Active,2025-10-19,6,Science,160,2024,Nile Press
+34,9288,1065,519,2025-03-20,2025-03-31,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Friendship,157,2014,Nile Press
+35,9236,1052,507,2024-09-02,2024-09-29,Retaj,Adel,7,Heliopolis,Active,2025-06-07,1,Science,160,2024,Nile Press
+36,9360,1077,520,2024-03-04,2024-03-16,Lina,Rashad,6,Shubra,Active,2023-07-08,6,Science Fiction,136,2009,Oasis Books
+37,9111,1027,510,2024-09-12,2024-10-03,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Mystery,134,2013,Cairo Young Readers
+38,9342,1068,501,2025-05-28,2025-06-27,Layla,Hegazy,8,Zamalek,Inactive,2025-02-24,6,Adventure,128,2017,Nile Press
+39,9380,1022,513,2024-04-22,2024-04-28,Youssef,Fouad,7,Maadi,Active,2025-02-28,6,Science,294,2021,Oasis Books
+40,9302,1061,507,2024-06-22,,Ziad,Fahmy,9,Zamalek,Inactive,2023-04-27,8,Science,160,2024,Nile Press
+41,9173,1027,532,2025-03-10,2025-04-06,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Friendship,337,2017,Oasis Books
+42,9019,1014,513,2024-03-06,2024-03-23,Habiba,Nabil,6,Maadi,Active,2024-07-09,1,Science,294,2021,Oasis Books
+43,9143,1024,518,2025-10-02,,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Adventure,163,2011,Delta House
+44,9222,1050,505,2024-01-09,2024-02-01,Fares,Adel,6,Heliopolis,Inactive,2025-09-10,11,Historical,216,2024,Oasis Books
+45,9101,1020,532,2025-05-25,2025-06-15,Rana,Fouad,6,Maadi,Active,2025-12-04,7,Friendship,337,2017,Oasis Books
+46,9316,1065,513,2024-08-25,2024-09-17,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Science,294,2021,Oasis Books
+47,9148,1027,532,2025-07-05,2025-07-26,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Friendship,337,2017,Oasis Books
+48,9070,1018,513,2025-01-08,2025-02-01,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Science,294,2021,Oasis Books
+49,9139,1036,521,2024-03-14,2024-03-20,Lina,Zaki,7,Nasr City,Active,2025-08-05,1,Science,211,2024,Cairo Young Readers
+50,9043,1005,505,2024-01-26,2024-02-04,Youssef,Halim,9,Maadi,Active,2024-05-05,3,Historical,216,2024,Oasis Books
+51,9187,1034,502,2024-08-11,,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Adventure,109,2018,Delta House
+52,9269,1054,507,2025-01-26,2025-01-31,Retaj,Fahmy,6,Heliopolis,Inactive,2024-03-21,6,Science,160,2024,Nile Press
+53,9056,1010,519,2025-07-11,2025-07-27,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Friendship,157,2014,Nile Press
+54,9057,1020,519,2025-02-03,,Rana,Fouad,6,Maadi,Active,2025-12-04,7,Friendship,157,2014,Nile Press
+55,9140,1034,513,2025-03-06,2025-04-02,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Science,294,2021,Oasis Books
+56,9209,1058,525,2024-11-22,2024-12-12,Lina,Mansour,8,Heliopolis,Active,2025-07-20,3,Adventure,297,2015,Oasis Books
+57,9249,1057,519,2024-10-17,2024-11-03,Ahmed,Fahmy,8,Heliopolis,Active,2024-01-12,10,Friendship,157,2014,Nile Press
+58,9058,1006,501,2025-03-18,2025-04-09,Layla,Mansour,6,Maadi,Inactive,2024-02-12,1,Adventure,128,2017,Nile Press
+60,9218,1044,532,2025-04-23,2025-05-04,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Friendship,337,2017,Oasis Books
+61,9355,1075,515,2024-11-10,2024-12-02,Malak,Fahmy,7,Shubra,Active,2024-10-28,9,Poetry,316,2022,Cairo Young Readers
+62,9205,1053,525,2024-12-02,2024-12-14,Adam,Shafik,9,Heliopolis,Active,2024-01-03,5,Adventure,297,2015,Oasis Books
+63,9025,1001,525,2024-10-24,2024-11-07,Salma,Ibrahim,8,Maadi,Active,2023-04-05,1,Adventure,297,2015,Oasis Books
+64,9124,1024,525,2025-10-14,2025-11-13,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Adventure,297,2015,Oasis Books
+65,9034,1015,511,2025-10-13,,Hamza,Sabry,7,Maadi,Inactive,2025-08-13,3,Historical,117,2016,Nile Press
+66,9181,1041,509,2025-03-24,,Nada,Rashad,7,Nasr City,Active,2024-04-02,2,Mystery,221,2011,Nile Press
+67,9171,1027,507,2025-05-23,2025-06-19,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Science,160,2024,Nile Press
+68,9318,1067,513,2025-07-23,2025-08-17,Aya,Ibrahim,7,Zamalek,Inactive,2024-07-03,3,Science,294,2021,Oasis Books
+69,9296,1065,501,2024-12-15,2025-01-11,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Adventure,128,2017,Nile Press
+70,9348,1075,532,2024-07-28,2024-08-25,Malak,Fahmy,7,Shubra,Active,2024-10-28,9,Friendship,337,2017,Oasis Books
+72,9094,1022,527,2024-11-22,2024-12-08,Youssef,Fouad,7,Maadi,Active,2025-02-28,6,Nature,328,2017,Delta House
+73,9280,1054,517,2024-09-06,2024-09-15,Retaj,Fahmy,6,Heliopolis,Inactive,2024-03-21,6,Mystery,338,2015,Delta House
+74,9211,1044,507,2025-04-28,2025-05-25,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Science,160,2024,Nile Press
+75,9294,1067,507,2024-11-26,,Aya,Ibrahim,7,Zamalek,Inactive,2024-07-03,3,Science,160,2024,Nile Press
+76,9372,1076,519,2025-03-06,2025-04-02,Dina,Wahba,7,Shubra,Active,2025-12-13,7,Friendship,157,2014,Nile Press
+77,9112,1031,521,2024-07-28,2024-08-22,Ali,Fahmy,8,Nasr City,Active,2023-09-08,1,Science,211,2024,Cairo Young Readers
+78,9001,1008,501,2025-08-23,2025-08-28,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Adventure,128,2017,Nile Press
+79,9328,1070,501,2024-01-28,,Ahmed,Zaki,9,Zamalek,Active,2025-07-22,3,Adventure,128,2017,Nile Press
+80,9075,1018,510,2024-07-01,,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Mystery,134,2013,Cairo Young Readers
+81,9149,1032,507,2025-02-09,2025-02-18,Nada,Zaki,7,Nasr City,Active,2025-10-19,6,Science,160,2024,Nile Press
+82,9165,1030,519,2025-03-27,2025-04-02,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Friendship,157,2014,Nile Press
+83,9255,1044,509,2025-05-24,2025-06-13,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Mystery,221,2011,Nile Press
+84,9304,1068,519,2024-04-16,2024-05-09,Layla,Hegazy,8,Zamalek,Inactive,2025-02-24,6,Friendship,157,2014,Nile Press
+85,9322,1061,510,2025-10-20,2025-11-15,Ziad,Fahmy,9,Zamalek,Inactive,2023-04-27,8,Mystery,134,2013,Cairo Young Readers
+86,9317,1061,507,2024-01-26,2024-02-09,Ziad,Fahmy,9,Zamalek,Inactive,2023-04-27,8,Science,160,2024,Nile Press
+87,9271,1044,513,2025-04-26,2025-05-06,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Science,294,2021,Oasis Books
+88,9186,1034,516,2025-07-17,2025-08-03,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Nature,241,2010,Nile Press
+89,9333,1072,520,2025-06-03,2025-06-08,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Science Fiction,136,2009,Oasis Books
+90,9188,1023,507,2025-05-11,2025-06-08,Hassan,Rashad,8,Nasr City,Inactive,2025-01-22,1,Science,160,2024,Nile Press
+91,9371,1079,528,2025-04-22,2025-05-02,Rana,Osman,8,Shubra,Active,2024-10-27,10,Nature,114,2010,Delta House
+92,9036,1010,515,2024-11-27,2024-12-24,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Poetry,316,2022,Cairo Young Readers
+93,9163,1034,531,2025-12-28,2026-01-02,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Friendship,272,2018,Oasis Books
+94,9091,1008,525,2024-06-03,2024-06-12,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Adventure,297,2015,Oasis Books
+95,9092,1019,507,2025-03-20,2025-03-27,Mostafa,Wahba,6,Maadi,Inactive,2024-07-20,3,Science,160,2024,Nile Press
+97,9376,1024,518,2025-10-22,2025-11-04,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Adventure,163,2011,Delta House
+98,9033,1020,522,2025-02-26,2025-03-11,Rana,Fouad,6,Maadi,Active,2025-12-04,7,Mystery,104,2016,Cairo Young Readers
+99,9341,1065,516,2025-02-19,2025-03-09,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Nature,241,2010,Nile Press
+100,9247,1044,510,2025-02-01,2025-02-23,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Mystery,134,2013,Cairo Young Readers
+101,9184,1026,501,2024-12-15,2025-01-11,Nada,Saleh,7,Nasr City,Inactive,2023-11-16,3,Adventure,128,2017,Nile Press
+102,9228,1044,516,2024-12-05,2024-12-26,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Nature,241,2010,Nile Press
+103,9331,1065,525,2025-02-17,2025-02-23,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Adventure,297,2015,Oasis Books
+104,9207,1044,527,2025-10-20,2025-11-04,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Nature,328,2017,Delta House
+105,9323,1072,519,2024-01-23,2024-01-28,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Friendship,157,2014,Nile Press
+107,9326,1062,501,2024-08-15,2024-08-21,Tarek,Adel,7,Zamalek,Active,2023-01-22,7,Adventure,128,2017,Nile Press
+108,9128,1024,501,2025-06-12,2025-06-19,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Adventure,128,2017,Nile Press
+109,9123,1027,511,2025-03-23,2025-04-11,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Historical,117,2016,Nile Press
+110,9003,1015,501,2024-08-04,2024-08-13,Hamza,Sabry,7,Maadi,Inactive,2025-08-13,3,Adventure,128,2017,Nile Press
+111,9066,1005,513,2025-07-15,2025-07-31,Youssef,Halim,9,Maadi,Active,2024-05-05,3,Science,294,2021,Oasis Books
+112,9053,1008,516,2025-07-20,2025-08-08,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Nature,241,2010,Nile Press
+113,9052,1019,501,2024-06-20,2024-06-29,Mostafa,Wahba,6,Maadi,Inactive,2024-07-20,3,Adventure,128,2017,Nile Press
+114,9162,1030,519,2025-08-27,2025-09-11,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Friendship,157,2014,Nile Press
+115,9027,1018,519,2024-11-04,,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Friendship,157,2014,Nile Press
+116,9194,1024,513,2024-09-17,2024-10-09,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Science,294,2021,Oasis Books
+117,9120,1034,526,2025-06-06,2025-06-26,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Science Fiction,125,2016,Delta House
+118,9182,1037,525,2024-05-19,2024-06-03,Retaj,Kamel,9,Nasr City,Inactive,2023-08-26,2,Adventure,297,2015,Oasis Books
+119,9241,1059,519,2025-01-04,2025-01-11,Lina,Halim,7,Heliopolis,Active,2024-01-06,7,Friendship,157,2014,Nile Press
+120,9172,1030,513,2025-05-04,2025-05-26,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Science,294,2021,Oasis Books
+121,9193,1034,519,2024-09-15,2024-10-01,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Friendship,157,2014,Nile Press
+122,9100,1010,513,2025-08-27,2025-09-22,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Science,294,2021,Oasis Books
+123,9227,1059,513,2024-11-02,2024-11-20,Lina,Halim,7,Heliopolis,Active,2024-01-06,7,Science,294,2021,Oasis Books
+125,9021,1008,501,2025-05-22,2025-05-29,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Adventure,128,2017,Nile Press
+126,9007,1008,507,2025-03-15,2025-03-31,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Science,160,2024,Nile Press
+127,9365,1075,501,2024-01-17,2024-02-01,Malak,Fahmy,7,Shubra,Active,2024-10-28,9,Adventure,128,2017,Nile Press
+128,9142,1027,516,2024-09-21,2024-10-14,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Nature,241,2010,Nile Press
+129,9073,1008,513,2025-02-13,,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Science,294,2021,Oasis Books
+130,9024,1010,507,2025-01-27,2025-02-09,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Science,160,2024,Nile Press
+131,9067,1008,507,2024-01-05,2024-01-29,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Science,160,2024,Nile Press
+133,9250,1044,507,2025-08-05,2025-08-23,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Science,160,2024,Nile Press
+134,9090,1016,507,2025-02-18,2025-03-04,Dina,Rashad,8,Maadi,Active,2023-04-24,7,Science,160,2024,Nile Press
+135,9198,1027,524,2024-10-03,2024-10-19,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Historical,114,2016,Cairo Young Readers
+136,9046,1022,513,2024-02-22,,Youssef,Fouad,7,Maadi,Active,2025-02-28,6,Science,294,2021,Oasis Books
+137,9115,1034,502,2025-12-16,2026-01-15,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Adventure,109,2018,Delta House
+138,9310,1067,511,2024-02-04,2024-02-12,Aya,Ibrahim,7,Zamalek,Inactive,2024-07-03,3,Historical,117,2016,Nile Press
+139,9357,1077,516,2024-07-26,2024-08-15,Lina,Rashad,6,Shubra,Active,2023-07-08,6,Nature,241,2010,Nile Press
+140,9286,1072,507,2024-08-09,2024-08-16,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Science,160,2024,Nile Press
+141,9354,1079,502,2024-03-09,2024-03-18,Rana,Osman,8,Shubra,Active,2024-10-27,10,Adventure,109,2018,Delta House
+142,9290,1065,519,2025-10-09,,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Friendship,157,2014,Nile Press
+143,9257,1047,501,2024-10-18,2024-11-16,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Adventure,128,2017,Nile Press
+144,9261,1047,509,2025-09-02,2025-09-18,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Mystery,221,2011,Nile Press
+145,9119,1024,518,2025-02-26,2025-03-15,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Adventure,163,2011,Delta House
+146,9313,1068,507,2024-12-13,2024-12-19,Layla,Hegazy,8,Zamalek,Inactive,2025-02-24,6,Science,160,2024,Nile Press
+147,9213,1050,501,2024-05-07,2024-05-14,Fares,Adel,6,Heliopolis,Inactive,2025-09-10,11,Adventure,128,2017,Nile Press
+148,9051,1003,513,2025-07-22,2025-08-18,Bassel,Hegazy,6,Maadi,Active,2025-04-23,9,Science,294,2021,Oasis Books
+149,9093,1008,507,2025-03-22,2025-04-19,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Science,160,2024,Nile Press
+150,9274,1054,522,2024-09-06,2024-09-17,Retaj,Fahmy,6,Heliopolis,Inactive,2024-03-21,6,Mystery,104,2016,Cairo Young Readers
+151,9292,1074,525,2024-12-28,2025-01-06,Mostafa,Saleh,8,Zamalek,Active,2025-11-21,2,Adventure,297,2015,Oasis Books
+153,9064,1008,502,2025-06-12,2025-06-21,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Adventure,109,2018,Delta House
+154,9169,1030,513,2025-11-25,,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Science,294,2021,Oasis Books
+155,9358,1077,513,2025-07-09,2025-07-24,Lina,Rashad,6,Shubra,Active,2023-07-08,6,Science,294,2021,Oasis Books
+156,9297,1065,501,2025-04-14,,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Adventure,128,2017,Nile Press
+157,9214,1058,525,2024-09-24,,Lina,Mansour,8,Heliopolis,Active,2025-07-20,3,Adventure,297,2015,Oasis Books
+158,9008,1010,520,2025-08-11,,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Science Fiction,136,2009,Oasis Books
+159,9237,1057,513,2024-02-22,,Ahmed,Fahmy,8,Heliopolis,Active,2024-01-12,10,Science,294,2021,Oasis Books
+160,9303,1061,509,2025-12-23,2026-01-10,Ziad,Fahmy,9,Zamalek,Inactive,2023-04-27,8,Mystery,221,2011,Nile Press
+161,9338,1072,501,2024-07-16,,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Adventure,128,2017,Nile Press
+164,9192,1027,519,2025-09-26,2025-10-07,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Friendship,157,2014,Nile Press
+165,9017,1018,519,2024-08-06,2024-08-11,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Friendship,157,2014,Nile Press
+166,9266,1053,519,2024-06-01,2024-06-15,Adam,Shafik,9,Heliopolis,Active,2024-01-03,5,Friendship,157,2014,Nile Press
+167,9132,1035,511,2025-02-26,2025-03-13,Karim,Fahmy,9,Nasr City,Inactive,2025-06-26,1,Historical,117,2016,Nile Press
+168,9015,1010,507,2025-09-02,2025-09-14,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Science,160,2024,Nile Press
+169,9362,1079,507,2024-03-08,2024-04-07,Rana,Osman,8,Shubra,Active,2024-10-27,10,Science,160,2024,Nile Press
+170,9262,1054,524,2024-02-25,2024-03-22,Retaj,Fahmy,6,Heliopolis,Inactive,2024-03-21,6,Historical,114,2016,Cairo Young Readers
+171,9336,1061,528,2024-04-18,2024-05-15,Ziad,Fahmy,9,Zamalek,Inactive,2023-04-27,8,Nature,114,2010,Delta House
+172,9105,1027,501,2025-03-05,2025-03-25,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Adventure,128,2017,Nile Press
+173,9055,1015,525,2025-08-08,2025-08-27,Hamza,Sabry,7,Maadi,Inactive,2025-08-13,3,Adventure,297,2015,Oasis Books
+174,9183,1027,532,2025-03-28,2025-04-10,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Friendship,337,2017,Oasis Books
+175,9049,1010,514,2025-09-08,,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Science Fiction,328,2023,Cairo Young Readers
+176,9307,1072,501,2025-06-10,2025-07-09,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Adventure,128,2017,Nile Press
+177,9166,1032,519,2024-01-15,2024-01-24,Nada,Zaki,7,Nasr City,Active,2025-10-19,6,Friendship,157,2014,Nile Press
+178,9155,1028,525,2025-07-12,2025-07-18,Hassan,Adel,9,Nasr City,Active,2025-11-12,3,Adventure,297,2015,Oasis Books
+179,9240,1050,525,2025-07-25,2025-08-24,Fares,Adel,6,Heliopolis,Inactive,2025-09-10,11,Adventure,297,2015,Oasis Books
+180,9197,1030,501,2025-11-26,2025-12-01,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Adventure,128,2017,Nile Press
+181,9375,1034,525,2025-10-27,2025-11-15,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Adventure,297,2015,Oasis Books
+182,9114,1034,516,2025-03-02,2025-03-17,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Nature,241,2010,Nile Press
+183,9077,1008,514,2024-07-28,2024-08-12,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Science Fiction,328,2023,Cairo Young Readers
+184,9260,1044,518,2025-07-03,2025-07-27,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Adventure,163,2011,Delta House
+185,9059,1016,518,2025-06-28,2025-07-27,Dina,Rashad,8,Maadi,Active,2023-04-24,7,Adventure,163,2011,Delta House
+186,9332,1062,522,2024-07-03,,Tarek,Adel,7,Zamalek,Active,2023-01-22,7,Mystery,104,2016,Cairo Young Readers
+187,9378,1018,501,2024-09-05,2024-09-21,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Adventure,128,2017,Nile Press
+188,9179,1027,517,2024-11-19,2024-12-17,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Mystery,338,2015,Delta House
+190,9072,1007,513,2025-03-05,2025-04-01,Sherif,Fouad,6,Maadi,Active,2025-08-18,3,Science,294,2021,Oasis Books
+191,9080,1008,501,2024-03-20,2024-04-18,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Adventure,128,2017,Nile Press
+192,9298,1065,507,2025-06-18,2025-07-11,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Science,160,2024,Nile Press
+193,9087,1020,511,2025-12-03,2025-12-13,Rana,Fouad,6,Maadi,Active,2025-12-04,7,Historical,117,2016,Nile Press
+194,9006,1018,507,2025-06-26,2025-07-01,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Science,160,2024,Nile Press
+195,9309,1068,511,2024-11-24,2024-12-12,Layla,Hegazy,8,Zamalek,Inactive,2025-02-24,6,Historical,117,2016,Nile Press
+196,9069,1010,505,2024-06-14,2024-07-10,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Historical,216,2024,Oasis Books
+197,9216,1050,519,2024-08-07,,Fares,Adel,6,Heliopolis,Inactive,2025-09-10,11,Friendship,157,2014,Nile Press
+198,9191,1027,505,2024-08-05,2024-08-29,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Historical,216,2024,Oasis Books
+199,9013,1002,501,2024-02-16,2024-02-29,Fares,Saleh,9,Maadi,Active,2025-01-22,2,Adventure,128,2017,Nile Press
+200,9061,1016,505,2025-04-28,2025-05-20,Dina,Rashad,8,Maadi,Active,2023-04-24,7,Historical,216,2024,Oasis Books
+201,9295,1061,513,2025-12-12,2026-01-01,Ziad,Fahmy,9,Zamalek,Inactive,2023-04-27,8,Science,294,2021,Oasis Books
+202,9363,1079,507,2024-12-23,2025-01-15,Rana,Osman,8,Shubra,Active,2024-10-27,10,Science,160,2024,Nile Press
+203,9102,1010,502,2024-10-05,,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Adventure,109,2018,Delta House
+204,9287,1065,532,2024-04-26,2024-05-23,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Friendship,337,2017,Oasis Books
+205,9330,1072,513,2025-04-11,2025-05-09,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Science,294,2021,Oasis Books
+206,9178,1024,518,2025-08-21,2025-09-04,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Adventure,163,2011,Delta House
+207,9175,1027,513,2025-03-04,2025-03-27,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Science,294,2021,Oasis Books
+208,9267,1047,530,2024-12-05,2024-12-20,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Adventure,208,2012,Oasis Books
+209,9159,1030,501,2024-12-11,,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Adventure,128,2017,Nile Press
+210,9037,1008,509,2024-01-02,2024-01-22,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Mystery,221,2011,Nile Press
+211,9264,1059,507,2025-02-01,2025-02-13,Lina,Halim,7,Heliopolis,Active,2024-01-06,7,Science,160,2024,Nile Press
+212,9254,1059,501,2025-10-23,2025-11-07,Lina,Halim,7,Heliopolis,Active,2024-01-06,7,Adventure,128,2017,Nile Press
+213,9259,1057,501,2025-11-16,2025-11-30,Ahmed,Fahmy,8,Heliopolis,Active,2024-01-12,10,Adventure,128,2017,Nile Press
+214,9010,1009,513,2025-07-22,2025-08-16,Hassan,Saleh,6,Maadi,Active,2025-04-25,1,Science,294,2021,Oasis Books
+215,9347,1075,519,2025-07-17,2025-07-31,Malak,Fahmy,7,Shubra,Active,2024-10-28,9,Friendship,157,2014,Nile Press
+217,9147,1028,512,2025-10-05,2025-11-01,Hassan,Adel,9,Nasr City,Active,2025-11-12,3,Adventure,238,2022,Delta House
+218,9125,1039,501,2025-06-17,,Nada,Riad,7,Nasr City,Active,2025-01-22,2,Adventure,128,2017,Nile Press
+219,9168,1030,513,2025-09-13,2025-09-23,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Science,294,2021,Oasis Books
+220,9270,1057,517,2024-12-08,2024-12-30,Ahmed,Fahmy,8,Heliopolis,Active,2024-01-12,10,Mystery,338,2015,Delta House
+221,9068,1003,501,2025-11-14,2025-12-03,Bassel,Hegazy,6,Maadi,Active,2025-04-23,9,Adventure,128,2017,Nile Press
+222,9327,1065,513,2025-03-09,2025-04-01,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Science,294,2021,Oasis Books
+223,9273,1047,510,2024-12-07,2025-01-05,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Mystery,134,2013,Cairo Young Readers
+224,9301,1062,519,2024-11-10,2024-11-23,Tarek,Adel,7,Zamalek,Active,2023-01-22,7,Friendship,157,2014,Nile Press
+226,9074,1003,501,2024-06-19,2024-07-06,Bassel,Hegazy,6,Maadi,Active,2025-04-23,9,Adventure,128,2017,Nile Press
+227,9368,1079,525,2025-02-12,2025-03-10,Rana,Osman,8,Shubra,Active,2024-10-27,10,Adventure,297,2015,Oasis Books
+228,9233,1059,512,2024-12-08,2024-12-15,Lina,Halim,7,Heliopolis,Active,2024-01-06,7,Adventure,238,2022,Delta House
+229,9200,1060,509,2024-12-08,,Layla,Wahba,7,Heliopolis,Active,2024-03-26,2,Mystery,221,2011,Nile Press
+230,9349,1077,501,2024-03-04,2024-04-02,Lina,Rashad,6,Shubra,Active,2023-07-08,6,Adventure,128,2017,Nile Press
+231,9350,1080,501,2025-06-22,2025-07-17,Bassel,Wahba,9,Shubra,Active,2023-12-28,2,Adventure,128,2017,Nile Press
+232,9345,1075,507,2025-02-03,2025-03-01,Malak,Fahmy,7,Shubra,Active,2024-10-28,9,Science,160,2024,Nile Press
+233,9195,1024,507,2025-02-22,2025-03-17,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Science,160,2024,Nile Press
+234,9325,1072,519,2024-01-11,,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Friendship,157,2014,Nile Press
+235,9245,1044,519,2024-12-13,2024-12-21,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Friendship,157,2014,Nile Press
+236,9146,1034,509,2025-02-23,2025-03-14,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Mystery,221,2011,Nile Press
+237,9379,1062,501,2024-12-18,2024-12-26,Tarek,Adel,7,Zamalek,Active,2023-01-22,7,Adventure,128,2017,Nile Press
+238,9374,1080,505,2024-08-05,2024-08-12,Bassel,Wahba,9,Shubra,Active,2023-12-28,2,Historical,216,2024,Oasis Books
+239,9107,1024,505,2024-09-24,2024-10-12,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Historical,216,2024,Oasis Books
+240,9029,1005,507,2025-03-07,2025-03-29,Youssef,Halim,9,Maadi,Active,2024-05-05,3,Science,160,2024,Nile Press
+241,9108,1024,507,2025-02-02,2025-02-27,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Science,160,2024,Nile Press
+242,9201,1055,531,2025-11-24,2025-12-16,Mostafa,Kamel,9,Heliopolis,Active,2025-01-04,2,Friendship,272,2018,Oasis Books
+243,9253,1058,507,2025-06-15,2025-07-10,Lina,Mansour,8,Heliopolis,Active,2025-07-20,3,Science,160,2024,Nile Press
+244,9334,1065,507,2025-12-20,2026-01-05,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Science,160,2024,Nile Press
+245,9160,1030,501,2024-06-20,2024-07-07,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Adventure,128,2017,Nile Press
+247,9344,1076,507,2024-09-12,,Dina,Wahba,7,Shubra,Active,2025-12-13,7,Science,160,2024,Nile Press
+248,9004,1013,519,2025-07-27,2025-08-16,Ziad,Fouad,9,Maadi,Active,2025-06-27,2,Friendship,157,2014,Nile Press
+249,9224,1057,513,2025-05-25,,Ahmed,Fahmy,8,Heliopolis,Active,2024-01-12,10,Science,294,2021,Oasis Books
+250,9235,1047,516,2024-02-16,,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Nature,241,2010,Nile Press
+251,9118,1030,507,2024-05-12,,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Science,160,2024,Nile Press
+252,9381,1079,507,2025-05-30,2025-06-18,Rana,Osman,8,Shubra,Active,2024-10-27,10,Science,160,2024,Nile Press
+254,9220,1047,507,2025-08-04,,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Science,160,2024,Nile Press
+256,9320,1073,501,2025-07-19,2025-08-13,Yassin,Kamel,7,Zamalek,Inactive,2025-08-26,2,Adventure,128,2017,Nile Press
+257,9300,1061,528,2024-08-15,2024-09-02,Ziad,Fahmy,9,Zamalek,Inactive,2023-04-27,8,Nature,114,2010,Delta House
+258,9364,1077,513,2024-08-18,2024-09-07,Lina,Rashad,6,Shubra,Active,2023-07-08,6,Science,294,2021,Oasis Books
+259,9035,1020,501,2024-08-01,2024-08-23,Rana,Fouad,6,Maadi,Active,2025-12-04,7,Adventure,128,2017,Nile Press
+260,9382,1076,507,2025-02-26,2025-03-08,Dina,Wahba,7,Shubra,Active,2025-12-13,7,Science,160,2024,Nile Press
+261,9133,1034,519,2025-05-28,2025-06-24,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Friendship,157,2014,Nile Press
+262,9276,1050,514,2025-06-28,2025-07-08,Fares,Adel,6,Heliopolis,Inactive,2025-09-10,11,Science Fiction,328,2023,Cairo Young Readers
+263,9104,1018,507,2024-05-15,,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Science,160,2024,Nile Press
+264,9367,1079,507,2024-03-19,2024-03-28,Rana,Osman,8,Shubra,Active,2024-10-27,10,Science,160,2024,Nile Press
+265,9373,1079,508,2024-03-20,2024-04-19,Rana,Osman,8,Shubra,Active,2024-10-27,10,Science,306,2011,Oasis Books
+266,9217,1047,530,2024-04-07,,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Adventure,208,2012,Oasis Books
+267,9022,1010,507,2025-11-14,2025-12-03,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Science,160,2024,Nile Press
+268,9065,1016,509,2024-12-21,,Dina,Rashad,8,Maadi,Active,2023-04-24,7,Mystery,221,2011,Nile Press
+270,9109,1034,512,2024-08-20,2024-09-14,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Adventure,238,2022,Delta House
+271,9086,1018,501,2024-06-20,2024-06-29,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Adventure,128,2017,Nile Press
+272,9089,1010,507,2025-06-22,2025-07-22,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Science,160,2024,Nile Press
+273,9230,1050,501,2025-09-10,2025-10-07,Fares,Adel,6,Heliopolis,Inactive,2025-09-10,11,Adventure,128,2017,Nile Press
+274,9062,1010,520,2024-07-28,2024-08-26,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Science Fiction,136,2009,Oasis Books
+276,9265,1049,513,2024-08-12,2024-09-10,Ahmed,Gamal,6,Heliopolis,Active,2023-06-10,1,Science,294,2021,Oasis Books
+279,9203,1057,501,2025-10-25,,Ahmed,Fahmy,8,Heliopolis,Active,2024-01-12,10,Adventure,128,2017,Nile Press
+281,9154,1030,525,2025-05-18,2025-05-26,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Adventure,297,2015,Oasis Books
+282,9285,1071,513,2025-02-24,,Jana,Hegazy,8,Zamalek,Active,2024-09-27,2,Science,294,2021,Oasis Books
+283,9121,1027,522,2025-02-24,2025-03-14,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Mystery,104,2016,Cairo Young Readers
+284,9244,1050,507,2025-04-23,2025-05-06,Fares,Adel,6,Heliopolis,Inactive,2025-09-10,11,Science,160,2024,Nile Press
+285,9275,1047,507,2025-09-21,2025-10-08,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Science,160,2024,Nile Press
+286,9215,1044,507,2024-02-07,,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Science,160,2024,Nile Press
+288,9314,1072,522,2024-08-13,2024-09-02,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Mystery,104,2016,Cairo Young Readers
+289,9299,1072,521,2024-01-04,2024-01-23,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Science,211,2024,Cairo Young Readers
+290,9353,1075,528,2025-12-13,2025-12-30,Malak,Fahmy,7,Shubra,Active,2024-10-28,9,Nature,114,2010,Delta House
+291,9117,1026,501,2025-09-13,,Nada,Saleh,7,Nasr City,Inactive,2023-11-16,3,Adventure,128,2017,Nile Press
+292,9212,1044,512,2024-09-14,,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Adventure,238,2022,Delta House
+294,9177,1027,513,2024-01-18,,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Science,294,2021,Oasis Books
+296,9329,1062,513,2025-03-06,,Tarek,Adel,7,Zamalek,Active,2023-01-22,7,Science,294,2021,Oasis Books
+297,9078,1008,521,2024-09-21,2024-10-12,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Science,211,2024,Cairo Young Readers
+298,9032,1011,501,2024-11-24,2024-12-11,Menna,Halim,8,Maadi,Active,2024-04-22,2,Adventure,128,2017,Nile Press
+299,9289,1072,522,2025-09-09,2025-09-19,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Mystery,104,2016,Cairo Young Readers
+300,9138,1039,516,2025-08-22,2025-08-31,Nada,Riad,7,Nasr City,Active,2025-01-22,2,Nature,241,2010,Nile Press
+302,9306,1074,510,2024-08-03,2024-08-10,Mostafa,Saleh,8,Zamalek,Active,2025-11-21,2,Mystery,134,2013,Cairo Young Readers
+303,9239,1050,519,2025-02-10,2025-02-22,Fares,Adel,6,Heliopolis,Inactive,2025-09-10,11,Friendship,157,2014,Nile Press
+304,9226,1044,519,2025-03-18,,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Friendship,157,2014,Nile Press
+307,9229,1047,501,2025-11-16,2025-12-08,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Adventure,128,2017,Nile Press
+308,9096,1022,501,2025-02-17,2025-03-17,Youssef,Fouad,7,Maadi,Active,2025-02-28,6,Adventure,128,2017,Nile Press
+310,9196,1030,526,2025-01-15,2025-02-02,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Science Fiction,125,2016,Delta House
+311,9190,1030,502,2025-12-04,2025-12-18,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Adventure,109,2018,Delta House
+312,9095,1002,507,2024-06-25,2024-07-07,Fares,Saleh,9,Maadi,Active,2025-01-22,2,Science,160,2024,Nile Press
+313,9199,1053,518,2024-11-28,2024-12-08,Adam,Shafik,9,Heliopolis,Active,2024-01-03,5,Adventure,163,2011,Delta House
+314,9279,1047,514,2025-07-06,2025-07-28,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Science Fiction,328,2023,Cairo Young Readers
+315,9047,1007,507,2024-10-11,2024-10-24,Sherif,Fouad,6,Maadi,Active,2025-08-18,3,Science,160,2024,Nile Press
+316,9351,1075,514,2024-01-03,2024-01-28,Malak,Fahmy,7,Shubra,Active,2024-10-28,9,Science Fiction,328,2023,Cairo Young Readers
+317,9251,1046,507,2024-06-09,,Amir,Fouad,7,Heliopolis,Active,2025-12-11,1,Science,160,2024,Nile Press
+318,9242,1047,520,2025-06-01,2025-07-01,Sara,Rashad,9,Heliopolis,Inactive,2024-06-25,16,Science Fiction,136,2009,Oasis Books
+320,9158,1040,513,2025-03-07,2025-03-24,Dina,Adel,9,Nasr City,Active,2025-12-26,2,Science,294,2021,Oasis Books
+321,9060,1010,527,2024-05-20,2024-05-28,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Nature,328,2017,Delta House
+322,9243,1060,513,2025-09-13,2025-10-09,Layla,Wahba,7,Heliopolis,Active,2024-03-26,2,Science,294,2021,Oasis Books
+323,9042,1010,509,2024-02-28,,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Mystery,221,2011,Nile Press
+324,9150,1024,507,2025-10-14,2025-10-24,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Science,160,2024,Nile Press
+325,9377,1034,507,2025-03-25,2025-04-06,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Science,160,2024,Nile Press
+326,9356,1076,501,2025-03-14,2025-04-13,Dina,Wahba,7,Shubra,Active,2025-12-13,7,Adventure,128,2017,Nile Press
+327,9014,1010,519,2024-06-28,2024-07-20,Nour,Nabil,6,Maadi,Active,2024-05-15,18,Friendship,157,2014,Nile Press
+328,9346,1076,519,2024-04-27,,Dina,Wahba,7,Shubra,Active,2025-12-13,7,Friendship,157,2014,Nile Press
+329,9103,1003,513,2025-09-04,2025-09-25,Bassel,Hegazy,6,Maadi,Active,2025-04-23,9,Science,294,2021,Oasis Books
+331,9308,1072,525,2024-02-17,2024-03-12,Seif,Zaki,9,Zamalek,Active,2025-10-21,14,Adventure,297,2015,Oasis Books
+332,9321,1070,501,2025-12-28,2026-01-09,Ahmed,Zaki,9,Zamalek,Active,2025-07-22,3,Adventure,128,2017,Nile Press
+334,9045,1008,520,2024-05-28,,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Science Fiction,136,2009,Oasis Books
+336,9002,1020,515,2024-12-06,2024-12-11,Rana,Fouad,6,Maadi,Active,2025-12-04,7,Poetry,316,2022,Cairo Young Readers
+337,9185,1026,519,2025-10-22,2025-11-01,Nada,Saleh,7,Nasr City,Inactive,2023-11-16,3,Friendship,157,2014,Nile Press
+338,9359,1077,501,2025-01-26,,Lina,Rashad,6,Shubra,Active,2023-07-08,6,Adventure,128,2017,Nile Press
+339,9079,1008,520,2025-12-27,2026-01-05,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Science Fiction,136,2009,Oasis Books
+340,9252,1054,513,2024-08-04,2024-08-09,Retaj,Fahmy,6,Heliopolis,Inactive,2024-03-21,6,Science,294,2021,Oasis Books
+341,9282,1057,530,2025-07-22,2025-08-18,Ahmed,Fahmy,8,Heliopolis,Active,2024-01-12,10,Adventure,208,2012,Oasis Books
+342,9293,1071,525,2025-08-05,2025-08-18,Jana,Hegazy,8,Zamalek,Active,2024-09-27,2,Adventure,297,2015,Oasis Books
+345,9050,1003,521,2025-08-21,,Bassel,Hegazy,6,Maadi,Active,2025-04-23,9,Science,211,2024,Cairo Young Readers
+346,9122,1034,525,2025-06-04,2025-06-30,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Adventure,297,2015,Oasis Books
+347,9153,1030,530,2024-10-12,2024-10-26,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Adventure,208,2012,Oasis Books
+348,9145,1034,501,2025-11-10,2025-12-10,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Adventure,128,2017,Nile Press
+349,9339,1073,501,2025-02-02,,Yassin,Kamel,7,Zamalek,Inactive,2025-08-26,2,Adventure,128,2017,Nile Press
+350,9136,1030,532,2024-10-03,2024-10-20,Reem,Osman,9,Nasr City,Active,2025-04-01,16,Friendship,337,2017,Oasis Books
+351,9277,1057,519,2025-10-19,2025-10-28,Ahmed,Fahmy,8,Heliopolis,Active,2024-01-12,10,Friendship,157,2014,Nile Press
+352,9284,1062,513,2025-09-27,2025-10-26,Tarek,Adel,7,Zamalek,Active,2023-01-22,7,Science,294,2021,Oasis Books
+353,9210,1044,507,2025-09-11,2025-09-29,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Science,160,2024,Nile Press
+354,9098,1008,525,2024-12-15,2024-12-31,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Adventure,297,2015,Oasis Books
+355,9106,1034,501,2025-08-20,2025-08-27,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Adventure,128,2017,Nile Press
+356,9170,1034,522,2025-10-16,2025-10-28,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Mystery,104,2016,Cairo Young Readers
+358,9028,1017,507,2025-01-19,2025-01-28,Adam,Badr,9,Maadi,Active,2025-07-12,2,Science,160,2024,Nile Press
+359,9081,1017,502,2025-08-25,2025-09-17,Adam,Badr,9,Maadi,Active,2025-07-12,2,Adventure,109,2018,Delta House
+360,9223,1050,510,2024-04-11,2024-05-04,Fares,Adel,6,Heliopolis,Inactive,2025-09-10,11,Mystery,134,2013,Cairo Young Readers
+361,9311,1065,507,2025-06-26,2025-07-09,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Science,160,2024,Nile Press
+362,9085,1018,525,2025-08-19,2025-09-18,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Adventure,297,2015,Oasis Books
+363,9335,1065,513,2024-12-18,2024-12-30,Adam,Fahmy,6,Zamalek,Active,2025-07-12,17,Science,294,2021,Oasis Books
+364,9221,1055,520,2025-04-12,2025-04-18,Mostafa,Kamel,9,Heliopolis,Active,2025-01-04,2,Science Fiction,136,2009,Oasis Books
+365,9016,1016,527,2024-12-03,2024-12-11,Dina,Rashad,8,Maadi,Active,2023-04-24,7,Nature,328,2017,Delta House
+366,9361,1075,524,2024-04-19,,Malak,Fahmy,7,Shubra,Active,2024-10-28,9,Historical,114,2016,Cairo Young Readers
+367,9248,1044,514,2025-07-01,2025-07-18,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Science Fiction,328,2023,Cairo Young Readers
+368,9315,1068,501,2024-06-11,2024-07-04,Layla,Hegazy,8,Zamalek,Inactive,2025-02-24,6,Adventure,128,2017,Nile Press
+369,9305,1062,519,2024-01-23,2024-01-31,Tarek,Adel,7,Zamalek,Active,2023-01-22,7,Friendship,157,2014,Nile Press
+370,9174,1024,528,2025-12-16,2026-01-07,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Nature,114,2010,Delta House
+371,9048,1003,519,2024-12-03,2025-01-01,Bassel,Hegazy,6,Maadi,Active,2025-04-23,9,Friendship,157,2014,Nile Press
+372,9281,1044,525,2024-06-01,2024-06-12,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Adventure,297,2015,Oasis Books
+373,9039,1018,513,2024-07-21,2024-08-10,Ahmed,Shafik,9,Maadi,Active,2023-01-28,17,Science,294,2021,Oasis Books
+374,9083,1011,516,2025-10-02,2025-10-09,Menna,Halim,8,Maadi,Active,2024-04-22,2,Nature,241,2010,Nile Press
+376,9088,1003,519,2025-09-17,2025-10-03,Bassel,Hegazy,6,Maadi,Active,2025-04-23,9,Friendship,157,2014,Nile Press
+377,9176,1027,501,2024-11-08,2024-11-26,Mostafa,Fouad,9,Nasr City,Active,2023-09-25,18,Adventure,128,2017,Nile Press
+379,9054,1013,510,2024-11-21,,Ziad,Fouad,9,Maadi,Active,2025-06-27,2,Mystery,134,2013,Cairo Young Readers
+380,9134,1037,516,2025-09-08,2025-09-19,Retaj,Kamel,9,Nasr City,Inactive,2023-08-26,2,Nature,241,2010,Nile Press
+381,9164,1034,507,2024-12-02,2024-12-12,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Science,160,2024,Nile Press
+382,9011,1022,513,2024-03-17,,Youssef,Fouad,7,Maadi,Active,2025-02-28,6,Science,294,2021,Oasis Books
+383,9151,1034,528,2025-04-25,2025-05-16,Aya,Wahba,9,Nasr City,Active,2025-01-22,25,Nature,114,2010,Delta House
+384,9018,1003,522,2025-06-12,2025-06-24,Bassel,Hegazy,6,Maadi,Active,2025-04-23,9,Mystery,104,2016,Cairo Young Readers
+386,9232,1044,513,2025-05-26,2025-06-11,Sherif,Saleh,7,Heliopolis,Active,2024-02-19,21,Science,294,2021,Oasis Books
+387,9084,1008,511,2024-06-27,2024-07-22,Ziad,Saleh,8,Maadi,Active,2025-10-28,19,Historical,117,2016,Nile Press
+388,9116,1024,519,2025-01-10,2025-02-09,Youssef,Hegazy,8,Nasr City,Inactive,2024-01-04,17,Friendship,157,2014,Nile Press
+389,9352,1076,501,2025-02-02,,Dina,Wahba,7,Shubra,Active,2025-12-13,7,Adventure,128,2017,Nile Press
+391,9384,1026,522,2025-07-11,,Nada,Saleh,7,Nasr City,Inactive,2023-11-16,1,Mystery,104,2016,Cairo Young Readers
+392,9385,1049,520,2025-07-11,,Ahmed,Gamal,6,Heliopolis,Active,2023-06-10,1,Science Fiction,136,2009,Oasis Books
+393,9386,1062,525,2025-07-05,,Tarek,Adel,7,Zamalek,Active,2023-01-22,1,Adventure,297,2015,Oasis Books
+394,9387,1065,520,2025-07-07,,Adam,Fahmy,6,Zamalek,Active,2025-07-12,1,Science Fiction,136,2009,Oasis Books
+396,9389,1063,522,2025-07-07,,Layla,Fouad,6,Zamalek,Active,2024-06-21,1,Mystery,104,2016,Cairo Young Readers
+397,9390,1022,511,2025-07-12,,Youssef,Fouad,7,Maadi,Active,2025-02-28,1,Historical,117,2016,Nile Press
+398,9391,1029,523,2025-07-09,,Rana,Kamel,6,Nasr City,Active,2023-04-03,1,Historical,276,2018,Oasis Books
+399,9392,1005,513,2025-07-10,,Youssef,Halim,9,Maadi,Active,2024-05-05,1,Science,294,2021,Oasis Books
+400,9393,1058,518,2025-07-08,,Lina,Mansour,8,Heliopolis,Active,2025-07-20,1,Adventure,163,2011,Delta House
+401,9394,1002,521,2025-07-08,,Fares,Saleh,9,Maadi,Active,2025-01-22,1,Science,211,2024,Cairo Young Readers
+402,9395,1041,504,2025-07-05,,Nada,Rashad,7,Nasr City,Active,2024-04-02,2,Science,319,2009,Cairo Young Readers
+403,9396,1055,526,2025-07-11,,Mostafa,Kamel,9,Heliopolis,Active,2025-01-04,1,Science Fiction,125,2016,Delta House
+404,9397,1061,513,2025-07-06,,Ziad,Fahmy,9,Zamalek,Inactive,2023-04-27,2,Science,294,2021,Oasis Books
+405,9398,1012,509,2025-07-11,,Ali,Hegazy,7,Maadi,Active,2025-12-08,1,Mystery,221,2011,Nile Press
+406,9399,1007,510,2025-07-07,,Sherif,Fouad,6,Maadi,Active,2025-08-18,1,Mystery,134,2013,Cairo Young Readers
+407,9400,1073,530,2025-07-07,,Yassin,Kamel,7,Zamalek,Inactive,2025-08-26,1,Adventure,208,2012,Oasis Books
+408,9401,1003,501,2025-07-08,,Bassel,Hegazy,6,Maadi,Active,2025-04-23,1,Adventure,128,2017,Nile Press
+409,9402,1017,507,2025-07-11,,Adam,Badr,9,Maadi,Active,2025-07-12,1,Science,160,2024,Nile Press
+410,9403,1061,504,2025-07-06,,Ziad,Fahmy,9,Zamalek,Inactive,2023-04-27,2,Science,319,2009,Cairo Young Readers
+411,9404,1041,512,2025-07-06,,Nada,Rashad,7,Nasr City,Active,2024-04-02,2,Adventure,238,2022,Delta House
